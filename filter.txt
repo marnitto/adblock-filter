@@ -1,0 +1,13 @@
+||keywordsconnect.com^
+||www.longkeyone.co.kr^
+zdnet.co.kr##div#main_right_Floating_banner
+||adsr.meganews.co.kr^
+||outbanner.hu.co.kr^
+&adplus=
+||adin.ad4980.kr^
+?n2ad_cd=
+||adkpf.newscloud.or.kr^
+||adscope.co.kr^
+||cdn.ntwoad.co.kr/N2AD/upload/*
+||display.ad.daum.net^
+||image.newsis.com/banner/*
