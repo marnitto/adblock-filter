@@ -13,3 +13,4 @@ zdnet.co.kr##div#main_right_Floating_banner
 ||image.newsis.com/banner/*
 naver.com##iframe#shop_cast
 naver.com##li.img_style
+www.etnewscom##div#promotionBanner
