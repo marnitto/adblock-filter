@@ -12,3 +12,4 @@ zdnet.co.kr##div#main_right_Floating_banner
 ||display.ad.daum.net^
 ||image.newsis.com/banner/*
 naver.com##iframe#shop_cast
+naver.com##li.img_style
