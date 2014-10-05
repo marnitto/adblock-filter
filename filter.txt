@@ -1,3 +1,4 @@
+[AdBlock Plus 2.6]
 ||keywordsconnect.com^
 ||www.longkeyone.co.kr^
 zdnet.co.kr##div#main_right_Floating_banner
