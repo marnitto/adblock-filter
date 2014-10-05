@@ -33,3 +33,4 @@ ad*.inews24.com^
 ad_time.js
 ||*.livere.co.kr
 joynews.inews24.com##div#joynews_7th
+||i.jjang0u.com/data3/web/banner/*
