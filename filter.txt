@@ -11,3 +11,4 @@ zdnet.co.kr##div#main_right_Floating_banner
 ||cdn.ntwoad.co.kr/N2AD/upload/*
 ||display.ad.daum.net^
 ||image.newsis.com/banner/*
+naver.com##iframe#shop_cast
