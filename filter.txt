@@ -15,3 +15,6 @@ zdnet.co.kr##div#main_right_Floating_banner
 naver.com##iframe#shop_cast
 naver.com##li.img_style
 www.etnewscom##div#promotionBanner
+||jsapi.shopping.daum.net^
+media.daum.net##div#shoppingboxWrap
+media.daum.net##div.wing_shopping
