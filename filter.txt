@@ -36,3 +36,4 @@ joynews.inews24.com##div#joynews_7th
 ||i.jjang0u.com/data3/web/banner/*
 ||rtax.criteo.com^
 ||ddaily.co.kr/data/banner/*
+www.it.co.kr##div.shopping_box_new
