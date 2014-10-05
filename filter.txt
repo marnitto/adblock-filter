@@ -38,3 +38,5 @@ joynews.inews24.com##div#joynews_7th
 ||ddaily.co.kr/data/banner/*
 www.it.co.kr##div.shopping_box_new
 www.ebuzz.co.kr##div#promotionBanner
+www.ebuzz.co.kr##p.mgb20
+||img.etnews.com/*/ebuzz/images/ad*.jpg
