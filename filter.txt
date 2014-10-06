@@ -14,7 +14,7 @@ zdnet.co.kr##div#main_right_Floating_banner
 ||image.newsis.com/banner/*
 naver.com##iframe#shop_cast
 naver.com##li.img_style
-www.etnewscom##div#promotionBanner
+www.etnews.com##div#promotionBanner
 ||jsapi.shopping.daum.net^
 media.daum.net##div#shoppingboxWrap
 media.daum.net##div.wing_shopping
@@ -41,3 +41,5 @@ www.ebuzz.co.kr##div#promotionBanner
 www.ebuzz.co.kr##p.mgb20
 ||img.etnews.com/*/ebuzz/images/ad*.jpg
 www.ebuzz.co.kr##div#wingBanner
+www.etnews.com##div.naver_btn
+www.etnews.com##div.box_type1
