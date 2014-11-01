@@ -43,3 +43,6 @@ www.ebuzz.co.kr##p.mgb20
 www.ebuzz.co.kr##div#wingBanner
 www.etnews.com##div.naver_btn
 www.etnews.com##div.box_type1
+||prod.danawa.com^
+||gigglehd.com/banner/*
+|http://gigglehd.com/zbxe/files/attach/images/*.gif
