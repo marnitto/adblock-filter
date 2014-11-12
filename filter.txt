@@ -46,3 +46,7 @@ www.etnews.com##div.box_type1
 ||prod.danawa.com^
 ||gigglehd.com/banner/*
 |http://gigglehd.com/zbxe/files/attach/images/*.gif
+||menu.mt.co.kr/news/banner/
+||news.mt.co.kr##div.aside_bundle
+||news.mt.co.kr##div.banner_roll
+
