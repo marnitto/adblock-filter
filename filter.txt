@@ -49,4 +49,6 @@ www.etnews.com##div.box_type1
 ||menu.mt.co.kr/news/banner/
 ||news.mt.co.kr##div.aside_bundle
 ||news.mt.co.kr##div.banner_roll
+||ad.ad4989.co.kr^
+||js.ad4989.co.kr^
 
