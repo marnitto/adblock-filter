@@ -51,4 +51,6 @@ www.etnews.com##div.box_type1
 ||news.mt.co.kr##div.banner_roll
 ||ad.ad4989.co.kr^
 ||js.ad4989.co.kr^
+||nws.lumieyes.com^
+m.insight.co.kr##div#google_ad
 
